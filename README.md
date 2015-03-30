@@ -5,7 +5,7 @@ This is a Gear VR ready version of the [Mary Oculus video](http://pedrofe.com/re
 
 ![Mary GearVR](stereo-screenshot.png "Mary GearVR")
 
-All rights for this are reserved by Pedro, [email him](http://pedrofe.com/about-me/) with any questions regarding it's use.
+All rights for this are reserved by Pedro, [email him](http://pedrofe.com/about-me/) with any questions regarding using his work.
 
 # Instructions 
 To get this working on the GearVR. Assumes you already have the Oculus app setup.
