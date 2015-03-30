@@ -30,4 +30,4 @@ See the [References](https://github.com/francoislaberge/mary-gearvr#references) 
 # References
   - See Pedro's [blog post](http://pedrofe.com/rendering-for-oculus-rift-with-arnold/) about the video and how it was made using an custom rendering plugin for Arnold
   - Here's a [WebVR compatible version](http://threejs.org/examples/#vr_video) for online viewing. It's a three.js VR example
-  - I highly recommend you download **Insurgent: Shatter Reality** by [Kite and Lightning](http://kiteandlightning.la/#about) in Milk VR for a much longer example of a spherical stereoscopic video rendered from computer graphics as well
+  - I highly recommend you download [Insurgent: Shatter Reality](https://www.youtube.com/watch?v=OMxgo6zoAIM) by [Kite and Lightning](http://kiteandlightning.la/#about) in Milk VR for a much longer example of a spherical stereoscopic video rendered from computer graphics as well
