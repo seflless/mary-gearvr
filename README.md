@@ -25,5 +25,5 @@ To get this working on the GearVR. Assumes you already have the Oculus app setup
 See the [References](https://github.com/francoislaberge/mary-gearvr#references) below for more details of how it was made.
 
 # References
-  - See Pedro's [blog post](http://pedrofe.com/rendering-for-oculus-rift-with-arnold/) about the video and how it was made using an Arnold (Highend 3D rendering tool) plugin. 
-  - Here's a [WebVR version](http://threejs.org/examples/#vr_video) (three.js example) for online viewing.
+  - See Pedro's [blog post](http://pedrofe.com/rendering-for-oculus-rift-with-arnold/) about the video and how it was made using an custom rendering plugin for Arnold. 
+  - Here's a [WebVR compatible version](http://threejs.org/examples/#vr_video) for online viewing. It's a three.js VR example.
