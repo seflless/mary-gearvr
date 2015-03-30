@@ -1,5 +1,7 @@
 # Mary Gear VR
-This is a Gear VR ready version of the [Mary Oculus video](http://pedrofe.com/rendering-for-oculus-rift-with-arnold/) made by [Pedro Fernando Gomez Fernandez](http://pedrofe.com/about-me/). The video is a spherical sterescopic video rendered with a special renderer. Read the [Instructions](https://github.com/francoislaberge/mary-gearvr#instructions) below for getting it loaded into your GearVR device.
+This is a Gear VR ready version of the [Mary Oculus video](http://pedrofe.com/rendering-for-oculus-rift-with-arnold/) made by [Pedro Fernando Gomez Fernandez](http://pedrofe.com/about-me/). The video is a spherical sterescopic video rendered with a special renderer. 
+
+Read the [Instructions](https://github.com/francoislaberge/mary-gearvr#instructions) below for getting it loaded into your GearVR device.
 
 [Preview the video online](http://francoislaberge.com/mary-gearvr/).
 
