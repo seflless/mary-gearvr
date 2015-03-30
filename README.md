@@ -3,7 +3,7 @@ This is a Gear VR ready version of the [Mary Oculus video](http://pedrofe.com/re
 
 Preview the [video here](http://francoislaberge.com/mary-gearvr/).
 
-![Mary GearVR](thumbnail.jpg "Mary GearVR")
+![Mary GearVR](stereo-screenshot.png "Mary GearVR")
 
 All rights for this are reserved by Pedro, [email him](http://pedrofe.com/about-me/) with any questions regarding it's use.
 
