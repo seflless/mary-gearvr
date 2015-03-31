@@ -7,11 +7,11 @@
 	"likes": "0",
 	"video_url": "",
 	"video_url_stream": "",
-	"local_url": "file:////storage/emulated/0/Android/data/com.samsung.vrvideo/files/MaryGearVR.ogv",
+	"local_url": "file:////storage/emulated/0/Android/data/com.samsung.vrvideo/files/MaryGearVR.mp4",
 	"thumbnail_url": "https://raw.githubusercontent.com/francoislaberge/mary-gearvr/master/thumbnail.jpg",
 	"thumbnail2_url": "https://raw.githubusercontent.com/francoislaberge/mary-gearvr/master/thumbnail2.jpg",
 	"author_profile_img": "http://pedrofe.com/wp-content/uploads/2014/09/oculus2.png",
-	"video_bytes": 4050175,
+	"video_bytes": 38193287,
 	"duration": 5,
 	"downloadPercent": 100,
 	"metadata": {

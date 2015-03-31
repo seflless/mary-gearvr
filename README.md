@@ -14,14 +14,14 @@ To get this working on the GearVR. Assumes you already have the Oculus app setup
 
   1. Install Milk VR 
     - Best Spherical Sterescopic playback app at the moment
-  2. Download ```MaryGearVR.json``` and ```downloads/MaryGearVR.ogv``` to your GearVR device
+  2. Download ```MaryGearVR.json``` and ```downloads/MaryGearVR.mp4``` to your GearVR device
     - Email the [Downloads](http://francoislaberge.com/mary-gearvr/downloads/) page to yourself for easier downloading
     - ```MaryGearVR.json``` is necessary for Milk VR to recognize and display the video in its UI
   4. When the download is finished, go to ```My files``` app
   5. Tap on ```Storage```
   6. Tap on ```Download```
   7. Tap on the upper right icon (three dots) and tap on ```Select```
-  8. Select ```MaryGearVR.ogv``` and ```MaryGearVR.json```
+  8. Select ```MaryGearVR.mp4``` and ```MaryGearVR.json```
   9. Tap on the upper right icon (three dots) and tap on “Move”
   10. Select ```LocalStorage``` -> ```Android``` -> ```data``` -> ```com.samsung.vrvideo``` -> ```files```
   11. Now, the video is ready for watching with the ```Milk VR``` app, inside the ```Downloaded``` section
