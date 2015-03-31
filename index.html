@@ -1,14 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Mary GearVR</title>
+  <title>Downloads</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    #container {
+      width: 320px;
+      margin: 0px auto;
+      font-family: "Trebuchet MS";
+      text-align: center;
+    }
+    #container a{
+      text-decoration: none;
+    }
+  </style>
 </head>
 <body>
-  <video id="video" autoplay width="100%" height="auto">
-      <!--
-        <source src="textures/sintel.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
-      -->
-      <source src="http://francoislaberge.com/mary-gearvr/downloads/MaryGearVR.mp4" type="video/mp4">
-    </video>
+  <div id="container">
+    <h1>Downloads</h1>
+    <p><a href="MaryGearVR.json" mimetype="application/json" download="MaryGearVR.json">MaryGearVR.json</a></p>
+    <p><a href="https://github.com/francoislaberge/mary-gearvr/raw/gh-pages/downloads/MaryGearVR.mp4" mimetype="video/mp4" download="MaryGearVR.mp4">MaryGearVR.mp4</a></p>
+  </div>
 </body>
 </html>
